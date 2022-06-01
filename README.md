@@ -1,3 +1,4 @@
-# Notas
+# Notes
 
-Este repositorio contiene varios custom hooks para acelerar el proceso de crear codigo en proyectos de React.
+This repository has a variety of custom hooks to improve the coding proccess in React projects.
+Every hook has its own documentation.
